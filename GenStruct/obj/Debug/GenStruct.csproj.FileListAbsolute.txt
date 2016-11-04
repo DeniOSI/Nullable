@@ -1,0 +1,6 @@
+c:\users\osipenko\documents\visual studio 2015\Projects\GenStruct\GenStruct\bin\Debug\GenStruct.exe.config
+c:\users\osipenko\documents\visual studio 2015\Projects\GenStruct\GenStruct\bin\Debug\GenStruct.exe
+c:\users\osipenko\documents\visual studio 2015\Projects\GenStruct\GenStruct\bin\Debug\GenStruct.pdb
+c:\users\osipenko\documents\visual studio 2015\Projects\GenStruct\GenStruct\obj\Debug\GenStruct.csprojResolveAssemblyReference.cache
+c:\users\osipenko\documents\visual studio 2015\Projects\GenStruct\GenStruct\obj\Debug\GenStruct.exe
+c:\users\osipenko\documents\visual studio 2015\Projects\GenStruct\GenStruct\obj\Debug\GenStruct.pdb
